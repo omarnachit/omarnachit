@@ -13,6 +13,7 @@ I build modern, responsive web applications and SaaS platforms, with a focus on 
 ### 🌐 Connect with me
 - Portfolio: https://portfolio-omarn.vercel.app
 - GitHub: https://github.com/omarnachit
+- Linkedin: www.linkedin.com/in/omar-nachit
 
 ### 🛠️ Tech Stack
 React • Next.js • TypeScript • JavaScript • PHP • Laravel • Node.js • Express.js • Tailwind CSS • MySQL • PostgreSQL • MongoDB • Supabase • Git • GitHub
